@@ -1,2 +1,2 @@
 # IBM-data-science
-Course projects
+Course projects and labs.
